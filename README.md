@@ -1,9 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rutuja Mali</h1>
+<h3 align="center">Data Scientist and business analyst</h3>
 
-<!--
-**Rutuja26022001/Rutuja26022001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am graduate in B.SC Aeronautics **In HAL - Pravara Aviation Institute from Mumbai University .,**
 
-Here are some ideas to get you started:
-
-Hello ,I am Rutuja Mali.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rutuja mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja mali" height="30" width="40" /></a>
+</p>
 
