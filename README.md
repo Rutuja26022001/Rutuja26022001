@@ -18,8 +18,8 @@
 
 
 
- - mail ID 6004rutujamali@gmail.com
+ - mail ID:  6004rutujamali@gmail.com
  
  
  
-- Linkdin Username = rutuja mali
+- Linkdin ID :  rutuja mali
