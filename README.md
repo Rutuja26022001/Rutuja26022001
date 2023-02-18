@@ -2,13 +2,13 @@
 -Data Scientist and business analyst
 
 
- -I am graduate in B.SC Aeronautics **In HAL - Pravara Aviation Institute from Mumbai University.
+ - I am graduate in B.SC Aeronautics **In HAL - Pravara Aviation Institute from Mumbai University.
  
  
- -I have also, Completed Data science And business analyst
+ - I have also, Completed Data science And business analyst
  
  
- -I’m looking to use my real-world data science experience for data scientist .proven capacity to use programming and research to enhance the effectiveness and quality    of   data extraction.
+ - I’m looking to use my real-world data science experience for data scientist .proven capacity to use programming and research to enhance the effectiveness and quality    of   data extraction.
  
  
 - I’m interested in python, machine learning, deep learning, aeronautics (avionics), aviation.:</h3>
@@ -16,4 +16,4 @@
  
  
  
--Linkdin Username = rutuja mali
+- Linkdin Username = rutuja mali
