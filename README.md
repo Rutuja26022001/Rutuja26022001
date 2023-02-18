@@ -1,5 +1,4 @@
-![My Image]("C:\Users\Rutuja Mali\Downloads\Data_Scientist_Job_Description.avif")                   
-
+                
 <h1 align="center">Hi 👋, I'm Rutuja Mali</h1>
 -Data Scientist and business analyst
 
