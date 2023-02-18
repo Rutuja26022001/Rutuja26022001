@@ -1,6 +1,4 @@
- <h1 align="center">
- <img src=https://www.dreamstime.com/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-image145015243 />
-</h1>                    
+![My Image](https://www.dreamstime.com/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-image145015243)                   
 
 <h1 align="center">Hi 👋, I'm Rutuja Mali</h1>
 -Data Scientist and business analyst
